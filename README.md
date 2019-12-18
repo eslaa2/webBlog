@@ -13,7 +13,7 @@ sourced software licensed under the [MIT license](https://opensource.org/license
 
 Features 
 Admin/Editor create post
-Admin/approves publish post
+Admin publish post
 User/Editor register to read and makes comment 
 
 How to setup
